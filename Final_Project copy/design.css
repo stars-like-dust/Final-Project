@@ -1,0 +1,65 @@
+body {
+    background-color: #FFC0CB;
+}
+
+.dropdown {
+  position: relative;
+  float: right;
+  padding-right: 5%
+  
+}
+
+.new {
+
+  float:right;
+  height: 99;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.thing {
+  margin-left: 20px;
+}
+
+  
+  
+
+.row{
+   background-color: white;
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-size: px;
+    font-weight: 800;
+    color:  #009999;
+  }
+
+  
+
+  footer {
+    position: relative;
+    margin-top: -180px;
+    /* negative value of footer height */
+    height: 75px;
+    clear: both;
+    background-color: darkgrey;
+    border-top-style: solid;
+    border-top-color: #009999;
+    border-width: 7px;     
+    text-align-last: center;
+    text-emphasis: padd;
+    
+ 
+  }
+
+  .foot {
+    margin-top: 10px;
+    color: white;
+  }
+
+  .a {
+
+  padding: 60px;
+  }
+
+  .b {margin-left: 100px;}
