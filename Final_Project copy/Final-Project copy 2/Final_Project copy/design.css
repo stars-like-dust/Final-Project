@@ -1,0 +1,91 @@
+
+h1 {
+  text-align: center;
+  font-family: Apple Chancery;
+  color: #C9A15B;
+  padding-top: 20px;
+  font-size: 65px;
+  height: 150px;
+  /* text-shadow: -1px 0 #ADB1BE, 0 1px #ADB1BE, 1px 0 #ADB1BE, 0 -1px #ADB1BE; */
+    background: cyan; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left,#E3C5D6, cyan  , #FED5D0, #F0B3B0, cyan, #E3C5D6); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #E3C5D6, cyan  , #FED5D0, #F0B3B0, cyan, #E3C5D6); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right,#E3C5D6, cyan  , #FED5D0, #F0B3B0, cyan, #E3C5D6); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #E3C5D6,cyan  , #FED5D0, #F0B3B0, cyan, #E3C5D6); /* Standard syntax (must be last) */
+
+}
+
+body {
+    background-color: #FFC0CB;
+}
+
+.dropdown {
+  position: relative;
+  float: right;
+  padding-right: 5%
+  
+}
+
+button {
+  display: block;
+  margin-top: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+
+}
+
+.new {
+
+  float:right;
+  height: 99;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.thing {
+  margin-left: 20px;
+}
+
+  
+  
+
+.row{
+   background-color: white;
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-size: px;
+    font-weight: 800;
+    color:  #009999;
+  }
+
+  
+
+  footer {
+    position: relative;
+    margin-top: -180px;
+    /* negative value of footer height */
+    height: 75px;
+    clear: both;
+    background-color: darkgrey;
+    border-top-style: solid;
+    border-top-color: #C9A15B;
+    border-width: 7px;     
+    text-align-last: center;
+    text-emphasis: padd;
+    
+ 
+  }
+
+  .foot {
+    margin-top: 10px;
+    color: white;
+  }
+
+  .a {
+
+  padding: 60px;
+  }
+
+  .b {margin-left: 100px;}
